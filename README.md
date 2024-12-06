@@ -1,5 +1,6 @@
 My Single Page CV - Excercise
+# Single Page Project
+
 ## Live Demo
-[Click here](https://indrasetiawn.github.io/singlePage/)
-## My repo
-[Click here for the repo](https://github.com/indrasetiawn/singlePage)
+[View the project here](https://indrasetiawn.github.io/singlePage/)
+
