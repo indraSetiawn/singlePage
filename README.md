@@ -1,2 +1,3 @@
 My Single Page CV - Excercise
-https://indrasetiawn.github.io/singlePage/
+## Live Demo
+[Click here](https://indrasetiawn.github.io/singlePage/)
